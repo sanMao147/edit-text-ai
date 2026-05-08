@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "title": "EditTextAI - Edit Text in Image Online with AI",
+    "description": "Edit, replace, add, or remove text in images online using AI. Free tool for product photos, social media posts, and more."
+  },
+  "home": {
+    "hero": {
+      "title": "Edit Text in Image Online",
+      "subtitle": "Replace, add, or remove text in your images in seconds with AI. No design skills needed.",
+      "cta": "Upload Your Image"
+    }
+  },
+  "header": {
+    "features": "Features",
+    "howToUse": "How to Use",
+    "faq": "FAQ",
+    "getStarted": "Get Started",
+    "language": "Language"
+  },
+  "editor": {
+    "upload": {
+      "title": "Upload your image",
+      "dragDrop": "Drag & drop your image here",
+      "browse": "or click to browse",
+      "supportedFormats": "Supported formats: JPG, PNG, WebP (max 4MB)"
+    },
+    "toolbar": {
+      "replace": "Replace Text",
+      "add": "Add Text",
+      "delete": "Delete Text",
+      "recolor": "Change Color"
+    },
+    "replacePanel": {
+      "originalText": "Original Text",
+      "newText": "New Text",
+      "placeholder": "Enter the text to replace with"
+    },
+    "addPanel": {
+      "enterText": "Enter Text",
+      "placeholder": "Enter text to add"
+    },
+    "deletePanel": {
+      "hint": "Click on the text area you want to remove"
+    },
+    "recolorPanel": {
+      "chooseColor": "Choose a color"
+    },
+    "process": {
+      "button": "Process",
+      "processing": "AI is editing...",
+      "complete": "Edit complete!",
+      "error": "Processing failed. Please try again."
+    },
+    "result": {
+      "original": "Original",
+      "edited": "Edited",
+      "download": "Download Image",
+      "editAgain": "Edit Again",
+      "success": "Image downloaded successfully!"
+    },
+    "backToHome": "Back to Home"
+  },
+  "features": {
+    "replace": {
+      "title": "Replace Text",
+      "desc": "Select any text in your image and replace it with new content. AI preserves the original style and texture."
+    },
+    "add": {
+      "title": "Add Text",
+      "desc": "Add custom text to your images. Perfect for promotions, captions, and branding."
+    },
+    "delete": {
+      "title": "Delete Text & Logo",
+      "desc": "Remove unwanted text, watermarks, or logos seamlessly. AI fills the gap naturally."
+    },
+    "recolor": {
+      "title": "Change Color",
+      "desc": "Change the color of any text in your image. AI adapts lighting and texture automatically."
+    }
+  },
+  "howToUse": {
+    "title": "How to Use",
+    "step1": {
+      "title": "Upload Image",
+      "desc": "Drag & drop your image or click to browse"
+    },
+    "step2": {
+      "title": "Describe Changes",
+      "desc": "Tell AI what text to replace, add, or remove"
+    },
+    "step3": {
+      "title": "Download Result",
+      "desc": "Get your edited image in seconds"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us",
+    "aiPowered": {
+      "title": "AI-Powered",
+      "desc": "Advanced AI models handle complex text editing with precision"
+    },
+    "easyToUse": {
+      "title": "Easy to Use",
+      "desc": "No design skills needed. Just upload and describe your changes"
+    },
+    "fastEfficient": {
+      "title": "Fast & Efficient",
+      "desc": "Get results in seconds, not hours. Streamlined workflow"
+    },
+    "freeOnline": {
+      "title": "Free Online",
+      "desc": "No downloads or installations. Use it directly in your browser"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "How does the AI edit text in images?",
+    "a1": "Our AI automatically detects text regions in your image, understands the layout and style, then applies your requested changes while preserving the original look and feel.",
+    "q2": "What image formats are supported?",
+    "a2": "We support JPG, PNG, and WebP formats with a maximum file size of 4MB.",
+    "q3": "Is this tool free to use?",
+    "a3": "Yes, our basic text editing features are completely free. Advanced features may require a subscription in the future.",
+    "q4": "Can I remove watermarks from images?",
+    "a4": "Yes, you can remove watermarks, logos, and other unwanted text. Our AI will intelligently fill the removed area.",
+    "q5": "How accurate is the text replacement?",
+    "a5": "Our AI attempts to match the original font style, size, color, and texture as closely as possible. Results may vary depending on image complexity.",
+    "q6": "Is my image data secure?",
+    "a6": "Yes, all uploaded images are processed securely and automatically deleted after processing."
+  },
+  "footer": {
+    "copyright": "© 2026 EditTextAI. All rights reserved.",
+    "contact": "Contact us"
+  },
+  "language": {
+    "en": "English",
+    "zh": "中文"
+  }
+}

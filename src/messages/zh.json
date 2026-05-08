@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "title": "EditTextAI - 在线AI图片文字编辑工具",
+    "description": "使用AI在线编辑、替换、添加或删除图片中的文字。适用于电商产品图、社交媒体海报等场景。"
+  },
+  "home": {
+    "hero": {
+      "title": "在线AI图片文字编辑",
+      "subtitle": "数秒内完成图片文字替换、添加或删除，无需设计技能，AI自动处理。",
+      "cta": "上传图片开始编辑"
+    }
+  },
+  "header": {
+    "features": "功能介绍",
+    "howToUse": "使用指南",
+    "faq": "常见问题",
+    "getStarted": "立即开始",
+    "language": "语言"
+  },
+  "editor": {
+    "upload": {
+      "title": "上传图片",
+      "dragDrop": "将图片拖拽到此处",
+      "browse": "或点击选择文件",
+      "supportedFormats": "支持的格式：JPG、PNG、WebP（最大 4MB）"
+    },
+    "toolbar": {
+      "replace": "替换文字",
+      "add": "添加文字",
+      "delete": "删除文字",
+      "recolor": "更改颜色"
+    },
+    "replacePanel": {
+      "originalText": "原始文字",
+      "newText": "新文字",
+      "placeholder": "输入要替换的文字内容"
+    },
+    "addPanel": {
+      "enterText": "输入文字",
+      "placeholder": "输入要添加的文字"
+    },
+    "deletePanel": {
+      "hint": "点击图片中要删除的文字区域"
+    },
+    "recolorPanel": {
+      "chooseColor": "选择颜色"
+    },
+    "process": {
+      "button": "开始处理",
+      "processing": "AI 正在编辑中...",
+      "complete": "编辑完成！",
+      "error": "处理失败，请重试"
+    },
+    "result": {
+      "original": "原图",
+      "edited": "编辑后",
+      "download": "下载图片",
+      "editAgain": "重新编辑",
+      "success": "图片下载成功！"
+    },
+    "backToHome": "返回首页"
+  },
+  "features": {
+    "replace": {
+      "title": "替换文字",
+      "desc": "选择图片中的任意文字，替换为新内容。AI自动保持原始风格和纹理。"
+    },
+    "add": {
+      "title": "添加文字",
+      "desc": "为图片添加自定义文字，适用于促销信息、标题等场景。"
+    },
+    "delete": {
+      "title": "删除文字和Logo",
+      "desc": "删除不需要的水印、Logo或文字，AI自动填充删除区域。"
+    },
+    "recolor": {
+      "title": "更改颜色",
+      "desc": "修改图片中任意文字的颜色，AI自动适配光照和纹理。"
+    }
+  },
+  "howToUse": {
+    "title": "使用指南",
+    "step1": {
+      "title": "上传图片",
+      "desc": "拖拽上传或点击浏览选择图片"
+    },
+    "step2": {
+      "title": "描述更改",
+      "desc": "告诉AI要替换、添加或删除的文字"
+    },
+    "step3": {
+      "title": "下载结果",
+      "desc": "数秒内获得编辑后的图片"
+    }
+  },
+  "whyChooseUs": {
+    "title": "为什么选择我们",
+    "aiPowered": {
+      "title": "AI驱动",
+      "desc": "先进AI模型精准处理复杂的文字编辑任务"
+    },
+    "easyToUse": {
+      "title": "简单易用",
+      "desc": "无需设计技能，上传图片描述更改即可"
+    },
+    "fastEfficient": {
+      "title": "快速高效",
+      "desc": "数秒获取结果，无需漫长等待"
+    },
+    "freeOnline": {
+      "title": "在线免费",
+      "desc": "无需下载安装，浏览器中直接使用"
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "q1": "AI如何编辑图片中的文字？",
+    "a1": "我们的AI会自动检测图片中的文字区域，理解布局和样式，然后根据您的需求进行修改，同时保留原始视觉效果。",
+    "q2": "支持哪些图片格式？",
+    "a2": "支持 JPG、PNG 和 WebP 格式，单张图片最大 4MB。",
+    "q3": "这个工具免费吗？",
+    "a3": "是的，基础文字编辑功能完全免费。未来高级功能可能需要订阅。",
+    "q4": "可以删除图片水印吗？",
+    "a4": "可以，您可以删除水印、Logo和其他不需要的文字，AI会自动智能填充。",
+    "q5": "文字替换准确度如何？",
+    "a5": "我们的AI会尽力匹配原始字体风格、大小、颜色和纹理。效果可能因图片复杂度而异。",
+    "q6": "我的图片数据安全吗？",
+    "a6": "所有上传的图片均安全处理，处理完成后自动删除。"
+  },
+  "footer": {
+    "copyright": "© 2026 EditTextAI。保留所有权利。",
+    "contact": "联系我们"
+  },
+  "language": {
+    "en": "English",
+    "zh": "中文"
+  }
+}
